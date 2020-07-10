@@ -1,0 +1,54 @@
+body {
+  background-color: #1F1B24;
+  margin: auto;
+  color: #ffffff;
+}
+.header {
+  background-color: #000000;
+  padding: 25px;
+  margin: 0px;
+  text-align: center;
+}
+.titleHeader {
+  color: #ffffff;
+}
+
+h2 {
+  text-align: center;
+}
+
+
+
+
+.stomatopoda1 {
+  width: 500px;
+  margin: 50px;
+  border: 6px ridge blue;
+  
+}
+
+.stomatopoda2 {
+  width: 500px;
+  margin: 50px;
+  border: 6px ridge blue;
+}
+
+.stomatopoda3 {
+  width: 500px;
+  margin: 50px;
+  border: 6px ridge blue;
+}
+
+
+.content {
+  margin: 10px;
+}
+
+.moreInfo {
+  margin: 10px;
+}
+
+footer {
+  text-align: center;
+  margin: 10px;
+}
