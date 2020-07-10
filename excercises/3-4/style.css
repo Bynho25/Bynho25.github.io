@@ -21,20 +21,22 @@ h2 {
 
 
 .stomatopoda1 {
-  width: 500px;
+  height: 350px;
   margin: 50px;
   border: 6px ridge blue;
   
 }
 
 .stomatopoda2 {
-  width: 500px;
-  margin: 50px;
+  float: left;
+  height: 350px;
+  margin: 10px;
   border: 6px ridge blue;
 }
 
 .stomatopoda3 {
-  width: 500px;
+  
+  width: 350px;
   margin: 50px;
   border: 6px ridge blue;
 }
